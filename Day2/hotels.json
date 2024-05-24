@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Hotel Sunshine",
+        "location": "New York",
+        "stars": 5,
+        "rooms": [
+            {
+                "type": "Deluxe",
+                "price": 200
+            },
+            {
+                "type": "Standard",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "name": "Hotel Moonlight",
+        "location": "Los Angeles",
+        "stars": 4,
+        "rooms": [
+            {
+                "type": "Deluxe",
+                "price": 180
+            },
+            {
+                "type": "Standard",
+                "price": 90
+            }
+        ]
+    },
+    {
+        "name": "Hotel Starlight",
+        "location": "San Francisco",
+        "stars": 3,
+        "rooms": [
+            {
+                "type": "Deluxe",
+                "price": 150
+            },
+            {
+                "type": "Standard",
+                "price": 80
+            }
+        ]
+    }
+]
