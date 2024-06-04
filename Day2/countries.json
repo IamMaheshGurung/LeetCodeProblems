@@ -1,0 +1,37 @@
+[
+    {
+        "name": "United States",
+        "capital": "Washington, D.C.",
+        "region": "Americas",
+        "population": 331449281,
+        "currency": "United States dollar"
+    },
+    {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "region": "Americas",
+        "population": 37742154,
+        "currency": "Canadian dollar"
+    },
+    {
+        "name": "Germany",
+        "capital": "Berlin",
+        "region": "Europe",
+        "population": 83783942,
+        "currency": "Euro"
+    },
+    {
+        "name": "Australia",
+        "capital": "Canberra",
+        "region": "Oceania",
+        "population": 25499884,
+        "currency": "Australian dollar"
+    },
+    {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "region": "Asia",
+        "population": 126476461,
+        "currency": "Japanese yen"
+    }
+]

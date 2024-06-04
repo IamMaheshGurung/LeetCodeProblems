@@ -220,4 +220,3 @@ console.log(shortestWord); // Output: "date"
 
 
 */
-
